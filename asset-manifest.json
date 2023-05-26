@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/exam/static/css/main.a3271e43.css",
+    "main.js": "/exam/static/js/main.00501f7e.js",
+    "static/media/paper.png": "/exam/static/media/paper.28d80951ba46ccd9187d.png",
+    "static/media/stone.png": "/exam/static/media/stone.6c63904907ceecf6e126.png",
+    "static/media/scissors.png": "/exam/static/media/scissors.de11ddf8cee3b45e3320.png",
+    "index.html": "/exam/index.html",
+    "main.a3271e43.css.map": "/exam/static/css/main.a3271e43.css.map",
+    "main.00501f7e.js.map": "/exam/static/js/main.00501f7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3271e43.css",
+    "static/js/main.00501f7e.js"
+  ]
+}
